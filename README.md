@@ -6,7 +6,9 @@
   Eu sou o Cícero Lessa!
 </h3>
 
-<p align="justify" font-size="5px">...Sou CEO da TaskData Tecnologia e desenvolvedor web Full Stack, está sendo uma experiência incrível, aqui você irá encontrar alguns projetos simples relacionados ao desenvolvimento web, fique a vontade para me dar dicas e implementar meus códigos.
+<p align="justify" font-size="5px">...Sou CEO da TaskData Tecnologia e desenvolvedor web Full Stack, aqui você irá
+  encontrar alguns projetos simples relacionados à desenvolvimento web, fique a vontade para me dar dicas e
+  implementar meus códigos.
 </p>
 
 <h3>
