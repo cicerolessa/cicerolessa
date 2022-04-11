@@ -2,23 +2,6 @@
   Olá, eu sou o Cícero Lessa!
 </h1>
 
-<h3>
-  Eu sou o Cícero Lessa!
-</h3>
-
-<p align="justify" font-size="5px">...Sou CEO na TaskData Tecnologia e desenvolvedor web full stack, aqui você irá
-  encontrar alguns projetos simples relacionados à desenvolvimento web, fique a vontade para me dar dicas e
-  implementar meus códigos.
-</p>
-
-<h3>
-  Entre em contato comigo
-</h3>
-
-<h6>
-  Obrigado por me visitar!
-</h6>  
-
 ##
 
 <div align="center">
