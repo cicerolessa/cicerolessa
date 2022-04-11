@@ -23,8 +23,8 @@
   <img align="center" alt="cicero-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"> 
   <img align="center" alt="cicero-amazon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"> 
 </div>
-  
- ##
+
+<hr>  
   
 <div> 
    <a href="https://instagram.com/cicerolessasantos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
